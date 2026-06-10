@@ -1,5 +1,6 @@
 {
-    "name": "Home Assistant Add-ons:",
-    "url": "https://github.com/crismc/homeassistant_addons",
-    "maintainer": "Chris Churchill <chris@serva.co.uk>"
+    "name": "Fork of Home Assistant Add-ons:",
+    "url": "https://github.com/Divyanshu4fx/homeassistant_addons_RasPi5_OLED_Display",
+    "maintainer": "Divyanshu4fx <divyanshustacks123@gmail.com>",
+    "License": "MIT"
 }
